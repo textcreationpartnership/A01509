@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-THE COMMODY OF the moste vertuous and Godlye Susanna, neuer before this tyme Printed.Compiled by Tho
+
 #####Body#####
 
 1. ¶The Prologue.
@@ -75,51 +75,45 @@ There are 113 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__label__|5||
-|14.|__langUsage__|1||
-|15.|__language__|1| @__ident__ (1) : eng (1)|
-|16.|__listPrefixDef__|1||
-|17.|__note__|7||
-|18.|__notesStmt__|2||
-|19.|__p__|11||
-|20.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|21.|__profileDesc__|1||
-|22.|__projectDesc__|1||
-|23.|__pubPlace__|2||
-|24.|__publicationStmt__|2||
-|25.|__publisher__|2||
-|26.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|27.|__revisionDesc__|1||
-|28.|__seriesStmt__|1||
-|29.|__sourceDesc__|1||
-|30.|__title__|3||
-|31.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__label__|5||
+|12.|__langUsage__|1||
+|13.|__language__|1| @__ident__ (1) : eng (1)|
+|14.|__listPrefixDef__|1||
+|15.|__note__|7||
+|16.|__notesStmt__|2||
+|17.|__p__|11||
+|18.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|19.|__projectDesc__|1||
+|20.|__pubPlace__|2||
+|21.|__publicationStmt__|2||
+|22.|__publisher__|2||
+|23.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|24.|__seriesStmt__|1||
+|25.|__sourceDesc__|1||
+|26.|__title__|3||
+|27.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__desc__|113||
-|3.|__div__|4| @__type__ (4) : title_page (1), prologue (1), play (1), illustration (1)|
-|4.|__figure__|1||
-|5.|__front__|1||
-|6.|__g__|31| @__ref__ (31) : char:EOLhyphen (1), char:punc (25), char:cmbAbbrStroke (5)|
-|7.|__gap__|113| @__reason__ (113) : illegible (113)  •  @__resp__ (113) : #PDCC (113)  •  @__extent__ (113) : 1 word (31), 1 letter (71), 1 span (1), 2 letters (9), 3 letters (1)|
-|8.|__head__|1||
-|9.|__hi__|48| @__rend__ (2) : sup (2)|
-|10.|__item__|8||
-|11.|__l__|1468||
-|12.|__lg__|16||
-|13.|__list__|1||
-|14.|__p__|5||
-|15.|__pb__|48| @__facs__ (48) : tcp:21579:1 (2), tcp:21579:2 (2), tcp:21579:3 (2), tcp:21579:4 (2), tcp:21579:5 (2), tcp:21579:6 (2), tcp:21579:7 (2), tcp:21579:8 (2), tcp:21579:9 (2), tcp:21579:10 (2), tcp:21579:11 (2), tcp:21579:12 (2), tcp:21579:13 (2), tcp:21579:14 (2), tcp:21579:15 (2), tcp:21579:16 (2), tcp:21579:17 (2), tcp:21579:18 (2), tcp:21579:19 (2), tcp:21579:20 (2), tcp:21579:21 (2), tcp:21579:22 (2), tcp:21579:23 (2), tcp:21579:24 (2)  •  @__rendition__ (24) : simple:additions (24)|
-|16.|__sp__|317||
-|17.|__speaker__|185||
-|18.|__stage__|55||
-|19.|__trailer__|1||
+|1.|__desc__|113||
+|2.|__div__|4| @__type__ (4) : title_page (1), prologue (1), play (1), illustration (1)|
+|3.|__figure__|1||
+|4.|__g__|31| @__ref__ (31) : char:EOLhyphen (1), char:punc (25), char:cmbAbbrStroke (5)|
+|5.|__gap__|113| @__reason__ (113) : illegible (113)  •  @__resp__ (113) : #PDCC (113)  •  @__extent__ (113) : 1 word (31), 1 letter (71), 1 span (1), 2 letters (9), 3 letters (1)|
+|6.|__head__|1||
+|7.|__hi__|48| @__rend__ (2) : sup (2)|
+|8.|__item__|8||
+|9.|__l__|1468||
+|10.|__lg__|16||
+|11.|__list__|1||
+|12.|__p__|5||
+|13.|__pb__|48| @__facs__ (48) : tcp:21579:1 (2), tcp:21579:2 (2), tcp:21579:3 (2), tcp:21579:4 (2), tcp:21579:5 (2), tcp:21579:6 (2), tcp:21579:7 (2), tcp:21579:8 (2), tcp:21579:9 (2), tcp:21579:10 (2), tcp:21579:11 (2), tcp:21579:12 (2), tcp:21579:13 (2), tcp:21579:14 (2), tcp:21579:15 (2), tcp:21579:16 (2), tcp:21579:17 (2), tcp:21579:18 (2), tcp:21579:19 (2), tcp:21579:20 (2), tcp:21579:21 (2), tcp:21579:22 (2), tcp:21579:23 (2), tcp:21579:24 (2)  •  @__rendition__ (24) : simple:additions (24)|
+|14.|__sp__|317||
+|15.|__speaker__|185||
+|16.|__stage__|55||
+|17.|__trailer__|1||
